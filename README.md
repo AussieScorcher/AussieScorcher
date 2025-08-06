@@ -11,7 +11,7 @@ I'm especially passionate about creating tools that streamline workflows or solv
 I work across a wide stack (Node, TypeScript, React, Tailwind, Workers, etc), but I care more about how things are built than what stack is used. I like solving weird problems, building fast, and pushing out projects that actually ship.
 
 * 🌍  I'm based in Australia
-* 🖥️  See my work at [Scorcher.dev](https://scorcher.dev)
+* 🖥️  See my work at [Scorcher.dev](https://scorcher.dev) (soon)
 * ✉️  You can contact me at [edward@stopbars.com](mailto:edward@stopbars.com)
 * 🚀  I'm currently working on [BARS](https://stopbars.com)
 * 🧠  I'm learning C++
